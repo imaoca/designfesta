@@ -49,12 +49,15 @@ https://play.google.com/store/apps/details?id=hai.lior.ukaleletunerfree&hl=ja&gl
 小さなウクレレを携帯することで日本の旅先や海外でもたくさんの友人を作ることができました。
 
 ![](asakusa.jpg)
+
 浅草
 
 ![](seattle.jpg)
+
 Seattle
 
 ![](seoul.jpg)
+
 Seoul
 
 ## other resources
