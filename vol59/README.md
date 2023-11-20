@@ -38,11 +38,11 @@
 ![](smartphone.jpg)
 
 もうひとつの演奏音の増幅方法はスマホアプリと連携させることによりBluetooth経由でアンプに接続しより大きな音で演奏が可能となります。
+
 https://play.google.com/store/apps/details?id=com.microphone.bbmic.lite&hl=ja&gl=US
 
 またスマホアプリのチューナー等と連携するこで、チューニングを容易に行うことができます。
 
-![](tuner.jpg)
 https://play.google.com/store/apps/details?id=hai.lior.ukaleletunerfree&hl=ja&gl=US
 
 ## 音楽は言葉を超える
