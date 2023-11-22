@@ -42,7 +42,7 @@ https://play.google.com/store/apps/details?id=com.microphone.bbmic.lite&hl=ja&gl
 
 またスマホアプリのチューナー等と連携するこで、チューニングを容易に行うことができます。
 
-![](tuner.jpg)
+![](tuner1.jpg)
 https://play.google.com/store/apps/details?id=hai.lior.ukaleletunerfree&hl=ja&gl=US
 
 ## デザインの変遷
@@ -52,7 +52,7 @@ https://play.google.com/store/apps/details?id=hai.lior.ukaleletunerfree&hl=ja&gl
 小さなウクレレを携帯することで日本の旅先や海外でもたくさんの友人を作ることができました。
 
 ![](asakusa.jpg)
-浅草
+Asakusa
 
 ![](seattle.jpg)
 Seattle
